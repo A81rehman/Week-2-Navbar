@@ -1,0 +1,17 @@
+h1{
+    border: 2px solid blue;
+}
+img{
+    border: 2px solid red; 
+}
+div{
+    border: 1px solid green;
+}
+ul{
+    display: inline;
+}
+li{
+    border: 1px solid red;
+    display: inline;
+    padding-left: 20px;
+}
