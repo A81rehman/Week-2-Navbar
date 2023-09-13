@@ -5,13 +5,14 @@ img{
     border: 2px solid red; 
 }
 div{
-    border: 1px solid green;
+    border: 2px solid green; 
 }
 ul{
-    display: inline;
+    margin-left: 20px;
+    margin-top: -38px;
 }
 li{
     border: 1px solid red;
     display: inline;
-    padding-left: 20px;
+    padding-left: 10px;
 }
